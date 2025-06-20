@@ -1,0 +1,26 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular build output
+dist/
+out-tsc/
+.angular/
+
+# Compiled source
+*.js
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
